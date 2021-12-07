@@ -1,7 +1,7 @@
 ### Hi there 👋
-Currently learning full stack web development with php and MySQL on udemy
-Looking for a job on IT as a trainee/junior developer. 
-i'm on vacation from university, so in the meantime i'll try to learn as much as i can. \n
+Currently learning full stack web development with php and MySQL on udemy<br>
+Looking for a job on IT as a trainee/junior developer. <br>
+i'm on vacation from university, so in the meantime i'll try to learn as much as i can. <br>
 my hobbies are playing video games with my friend and watching series on netflix
 # technologies i had already practiced :
 - java ☕ (my favourite)
