@@ -10,6 +10,7 @@ my hobbies are playing video games with my friends and watching series on netfli
 - CSS3
 - JavaScript
 - C# (basic knowledge)
+- PHP
 
 <!--
 **agustinesco/agustinesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
